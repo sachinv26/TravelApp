@@ -1,6 +1,6 @@
-# Flutter-Crypto-Wallet-App
+# Flutter-TravelApp
 
-A sample app to showcase Crypto Wallet App UI demo in flutter.
+A sample app to Travel App UI demo in flutter.
 
 
 ## Development Setup
@@ -29,10 +29,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 ## Created & Maintained By
 
-- [Instagram](https://www.instagram.com/faiz.rhm)
-- [Youtube Channel](https://www.youtube.com/channel/UCM1OzZsZ5FQIg01vdKGAw7g)
-- [Twitter](https://twitter.com/faiz_rhm)
-
+- [Instagram](https://www.instagram.com/sachin_v26)
 
 ## Getting Started
 
@@ -40,7 +37,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://www.instagram.com/faiz.rhm)
+- [Lab: Write your first Flutter app](https://www.instagram.com/sachin_v26)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
